@@ -1,0 +1,43 @@
+[
+    {
+        "nameLibrary": "Playlists",
+        "imageName": "music.note.list",
+        "id": 1001
+    },
+    {
+        "nameLibrary": "Artists",
+        "imageName": "music.mic",
+        "id": 1002
+    },
+    {
+        "nameLibrary": "Albums",
+        "imageName": "square.stack",
+        "id": 1003
+    },
+    {
+        "nameLibrary": "Songs",
+        "imageName": "music.note",
+        "id": 1004
+    },
+    {
+        "nameLibrary": "Genres",
+        "imageName": "guitars",
+        "id": 1005
+    },
+    {
+        "nameLibrary": "Compilations",
+        "imageName": "person.2.crop.square.stack",
+        "id": 1006
+    },
+    {
+        "nameLibrary": "Composers",
+        "imageName": "music.quarternote.3",
+        "id": 1007
+    },
+    {
+        "nameLibrary": "Downloaded Music",
+        "imageName": "arrow.down.circle",
+        "id": 1008
+    }
+
+]
